@@ -74,7 +74,7 @@ calculate(a, b, c);
 ```
 定义函数$calculate$虽然被执行了，但返回值没有被存储，也不会输出。  
 
-### 例二：调用函数
+### 例二：调用函数过程中参数的变化
 ```C
 #include<stdio.h>
 int max(int a,int b)
